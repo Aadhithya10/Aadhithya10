@@ -77,4 +77,4 @@ Building scalable systems, data-driven applications, and intelligent solutions
 
 ---
 
-⭐ *Always open to internships, research opportunities, and collaborations!*
+ *Always open to internships, research opportunities, and collaborations!*
