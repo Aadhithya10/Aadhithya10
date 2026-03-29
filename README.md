@@ -1,52 +1,80 @@
-# Hi, I'm Aadhithya Bharathi
+# 👋 Hi, I'm Aadhithya Bharathi
 
-Computer Science student with an interest in full stack development, machine learning, and systems.
+🎓 Computer Science student passionate about **Full Stack Development, Machine Learning, and Systems Engineering**  
+🚀 Building scalable systems, data-driven applications, and intelligent solutions  
 
-## Education
+---
 
-* BTech in Computer Science, Amrita Vishwa Vidhyapeetham
-* Diploma in Data Science, IIT Madras
+## 🎓 Education
 
-## Experience
+- **B.Tech in Computer Science** – Amrita Vishwa Vidyapeetham (CGPA: 9.0)
+- **Diploma in Data Science** – IIT Madras
 
-**Full Stack Developer Intern – Trusty Bytes**
+---
 
-* Built a mobile application frontend using React Native
-* Developed responsive UI for Android and iOS
-* Worked on component-based architecture and cross-platform design
+## 💼 Experience
 
-## Projects
+### 🔹 Full Stack Developer Intern – Trusty Bytes
+- Developed a demand-supply mobile application frontend using **React Native**
+- Built responsive and optimized UI for Android & iOS
+- Worked with **component-based architecture** and cross-platform design
 
-**AI-Based Disaster Monitoring System**
+---
 
-* Developed an embedded system using STM32 and sensors
-* Built ML model for hazard prediction
-* Created a dashboard for alerts and monitoring
+## 🚀 Projects
 
-**Innovora – Collaboration Platform**
+### 🍽️ Smart Cafeteria Management System
+- Built a **microservices-based platform** using Go, React, and Python
+- Developed a **Random Forest model (81.5% accuracy)** for demand forecasting
+- Implemented **queue management, JWT + 2FA authentication**, and role-based dashboards
+- Added analytics for food waste tracking and booking optimization
 
-* Built a MERN stack platform for student collaboration
-* Enabled project sharing and research publication
+---
 
-**Cinema Audience Forecasting**
+### 💱 FX Decision Recommendation System
+- Built a full-stack system for **currency risk analysis and decision support**
+- Used **Facebook Prophet** for time-series forecasting
+- Implemented **VaR, volatility, and anomaly detection models**
+- Designed an interactive dashboard for real-time insights
 
-* Built time-series models for predicting audience trends
-* Performed feature engineering and regression modeling
+---
 
-  
-**Presence360 – Secure Attendance System**
+### 🌍 AI-Driven Disaster Monitoring System
+- Developed an **STM32-based embedded system** for hazard detection
+- Integrated sensors (gas, flame, vibration) for real-time monitoring
+- Built a **Random Forest model** and deployed via FastAPI
+- Created a dashboard for alerts and visualization
 
-* Built a system using location verification and biometrics
-* Developed backend APIs for secure attendance tracking
-* Created a responsive interface for real-time feedback
-## Skills
+---
 
-* Languages: Python, C, Java, JavaScript
-* Web: HTML, CSS, React
-* Databases: MySQL, MongoDB
-* Tools: scikit-learn, pandas, NumPy
+### 🤝 Innovora – Full Stack Collaboration Platform
+- Built a **MERN stack platform** for student collaboration and research sharing
+- Enabled project publishing and community interaction
 
-## Links
+---
 
-* Portfolio: (https://www.artfolio.tech/AadhithyaBharathi)
-* LinkedIn: (https://www.linkedin.com/in/aadhithya-bharathi-86a9aa290/)
+### 🎬 Cinema Audience Forecasting
+- Built **time-series forecasting models** for predicting audience trends
+- Performed feature engineering and regression modeling
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Python, C, Java, JavaScript  
+**Web:** HTML, CSS, React  
+**Databases:** MySQL, MongoDB  
+**Data & ML:** pandas, NumPy, scikit-learn, Time-Series Forecasting  
+**Tools & Systems:** Docker, FastAPI, Microservices, REST APIs  
+
+---
+
+## 🌐 Connect with Me
+
+- 🌍 Portfolio: [artfolio.tech/AadhithyaBharathi](https://www.artfolio.tech/AadhithyaBharathi)
+- 💼 LinkedIn: [linkedin.com/in/aadhithya-bharathi](https://www.linkedin.com/in/aadhithya-bharathi-86a9aa290/)
+- 📧 Email: aadhithyabharathi10@gmail.com
+
+---
+
+⭐ *Always open to internships, research opportunities, and collaborations!*
