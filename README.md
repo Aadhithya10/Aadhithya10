@@ -93,7 +93,7 @@ Applied **ABC/XYZ classification** to build a nine-cell procurement control matr
 
 ## 🔗 Connect with Me
 
-- Portfolio: [artfolio.tech/AadhithyaBharathi](https://www.artfolio.tech/AadhithyaBharathi)
+- Portfolio: [artfolio.tech/AadhithyaBharathi]([https://www.artfolio.tech/AadhithyaBharathi](https://my-portfolio-react-lovat-seven.vercel.app/))
 - LinkedIn: [linkedin.com/in/aadhithya-bharathi](https://www.linkedin.com/in/aadhithya-bharathi-86a9aa290/)
 - Email: aadhithyabharathi10@gmail.com
 
